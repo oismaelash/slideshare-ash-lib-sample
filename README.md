@@ -1,7 +1,5 @@
 # Slideshare lib
 
-# Youtube
-
 ## NPM
 https://www.npmjs.com/package/slideshare-ash
 
